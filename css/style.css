@@ -3,6 +3,9 @@ body {
 margin: 0; /*  centers everything that doesnt have a width unless you set the margin parameters */
 text-align: center;
 
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+
+
 }
 
 .top-container{ 
