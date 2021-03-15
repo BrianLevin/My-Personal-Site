@@ -6,6 +6,7 @@ body {
   font-family: "Merriweather", serif;
 
   font-size: 200%;
+
 }
 
 .top-container {
@@ -22,15 +23,26 @@ h1 { /* 16px = 100% = 1em  */
   font-family: "Sacramento";
 /*  100% = 16px 90px/16= 562%  percentage is more dynmaic then pixels when it comes to the user change how they want to view the font size on their web browser */
   font-size: 5.625rem; 
+  color: #66BFBF;
+
+ 
+
 }
 
 h2 {
   font-family: "Montserrat";
   font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
 }
 
 h3 {
   font-family: "Montserrat";
+  color: #11999E;
+}
+a{
+color: #11999E;
+
 }
 
 .middle-container {
