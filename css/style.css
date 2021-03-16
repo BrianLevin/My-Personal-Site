@@ -79,9 +79,26 @@ line-height: 2;
 /*  one you pick image, consider using a giph as a live action image*/
 .computer {
 width: 25%;
+float:left;
+margin-right: 30px;
 
 
 }
 .chillies{
    width: 25%;
+   float:right;
+   margin-right: 30px;
+
+}
+
+.code-skill-description  {
+
+    clear: left;
+
+
+}
+
+.chilli-skill-description {
+clear: right;
+
 }
