@@ -72,6 +72,11 @@ text-decoration: none;
 
 }
 
+a:hover {
+
+   color:  #EAf6F6;
+}
+
 .middle-container {
     margin: 100px 0;
  
