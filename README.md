@@ -27,12 +27,12 @@ A personal introductinary website that introduces to prospective employers or pa
   ![Events Screenshot](images/contact.png)   
   
   ![Events Screenshot](images/contact2.png)  
-  
+       
   The contact page displays   a nasic form  with minimal styling  how to get in contact  with meme
   
   ![Events Screenshot](images/cpage1.png)
-  ![Events Screenshot](images/cpage2.png)    
-  
+  ![Events Screenshot](images/cpage2.png)   
+    ![Events Screenshot](images/contact2.png)    
 ## Libraries and Frameworks:
 
 - HTML
