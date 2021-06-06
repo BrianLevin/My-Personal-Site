@@ -32,7 +32,7 @@ A personal introductinary website that introduces to prospective employers or pa
   
   ![Events Screenshot](images/cpage1.png)
   ![Events Screenshot](images/cpage2.png)   
-    ![Events Screenshot](images/contact2.png)    
+     
 ## Libraries and Frameworks:
 
 - HTML
